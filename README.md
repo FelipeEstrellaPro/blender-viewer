@@ -129,8 +129,3 @@ Para obtener los mejores resultados, se recomienda:
 1. Exportar como **glTF 2.0 (.glb)** (incluye geometrías, luces, cámaras y materiales).
 2. Si usas **FBX**, asegúrate de incrustar las texturas (Path Mode: Copy, Embed Textures marcado).
 
----
-
-## 📜 Licencia
-
-Desarrollado bajo licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
