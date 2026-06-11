@@ -32,7 +32,7 @@ Un potente visualizador de modelos 3D construido con **Next.js**, **React Three 
 
 ### Modelos Complejos y Exportaciones FBX
 El visualizador incluye un conversor inteligente para modelos FBX exportados desde Blender, preservando la fidelidad de los materiales:
-![Casa Cargada en el Visualizador](./public/docs/media__1781154864178.png)
+![Casa Cargada en el Visualizador](./public/images/Casa.png)
 
 ### Modos de Visualización
 
