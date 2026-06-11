@@ -28,32 +28,32 @@ Un potente visualizador de modelos 3D construido con **Next.js**, **React Three 
 ## 📸 Demostraciones y Capturas
 
 ### Flujo Completo y Funcionalidades
-![Demo Animada](/docs/viewer_testing_1781154006399.webp)
+![Demo Animada](./public/docs/viewer_testing_1781154006399.webp)
 
 ### Modelos Complejos y Exportaciones FBX
 El visualizador incluye un conversor inteligente para modelos FBX exportados desde Blender, preservando la fidelidad de los materiales:
-![Casa Cargada en el Visualizador](/docs/media__1781154864178.png)
+![Casa Cargada en el Visualizador](./public/docs/media__1781154864178.png)
 
 ### Modos de Visualización
 
 <div style="display: flex; gap: 10px; justify-content: space-between;">
-  <img src="/docs/torus_textured_view_1781154037919.png" width="32%" alt="Modo Texturas" />
-  <img src="/docs/torus_solid_view_1781154046734.png" width="32%" alt="Modo Sólido" />
-  <img src="/docs/torus_wire_view_1781154053876.png" width="32%" alt="Modo Wireframe" />
+  <img src="./public/docs/torus_textured_view_1781154037919.png" width="32%" alt="Modo Texturas" />
+  <img src="./public/docs/torus_solid_view_1781154046734.png" width="32%" alt="Modo Sólido" />
+  <img src="./public/docs/torus_wire_view_1781154053876.png" width="32%" alt="Modo Wireframe" />
 </div>
 
 ### Entornos (HDR y Estrellas)
 
 <div style="display: flex; gap: 10px; justify-content: space-between;">
-  <img src="/docs/torus_loaded_environment_1781154587089.png" width="49%" alt="Entorno HDR Ciudad" />
-  <img src="/docs/torus_loaded_stars_1781154597992.png" width="49%" alt="Entorno Estrellas" />
+  <img src="./public/docs/torus_loaded_environment_1781154587089.png" width="49%" alt="Entorno HDR Ciudad" />
+  <img src="./public/docs/torus_loaded_stars_1781154597992.png" width="49%" alt="Entorno Estrellas" />
 </div>
 
 ### Interfaz Principal y Panel de Control
 
 <div style="display: flex; gap: 10px; justify-content: space-between;">
-  <img src="/docs/landing_page_1781154021144.png" width="49%" alt="Pantalla de inicio (Dropzone)" />
-  <img src="/docs/control_panel_view_1781154366993.png" width="49%" alt="Panel de controles laterales" />
+  <img src="./public/docs/landing_page_1781154021144.png" width="49%" alt="Pantalla de inicio (Dropzone)" />
+  <img src="./public/docs/control_panel_view_1781154366993.png" width="49%" alt="Panel de controles laterales" />
 </div>
 
 ---
